@@ -1,10 +1,7 @@
 @media only screen and ( max-width: 920px){
 
 
-}
-
-    
-
+}   
 .wholething{
     background-color: #ffe4f8;
 
@@ -16,6 +13,10 @@
     background-position: right;
     background-size: contain;
 height: 500px;
+
+}
+.box1 img{
+  height: 70px;  
 
 }
 .nav{
@@ -41,12 +42,13 @@ height: 500px;
     text-align: center;
 }
 .title h3{
-    font-size: xx-large;
+    font-size: 100px;
     color: rgb(6, 6, 6) ;
     font-weight: 5000px;
 }
 .title p{
     font-size: xx-large;
+    color: darkgoldenrod;
 }
 .sale img{
     border-radius: 100px;
@@ -238,3 +240,9 @@ background-image:linear-gradient(rgb(138, 53, 138), plum) ;
        position: -webkit-sticky;
      padding-right: 20px; 
      }
+ 
+  .bottomnavbar img{
+    padding-top: 50px;
+    width: 100px;
+    height: 100px;
+  }   
