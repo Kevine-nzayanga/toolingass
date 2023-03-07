@@ -1,0 +1,240 @@
+@media only screen and ( max-width: 920px){
+
+
+}
+
+    
+
+.wholething{
+    background-color: #ffe4f8;
+
+}
+.box1{
+    background-color: rgb(247, 222, 238);
+    background-image: url(/images/gif2.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+height: 500px;
+
+}
+.nav{
+ display: flex;
+ overflow: hidden;
+}
+.nav a{
+    float: left;
+    /* color: #f2f2f2; */
+    text-align: center;
+    padding: 14px 70px;
+    text-decoration: none;
+    font-size: 17px;
+    font-size: xx-large;
+    color: rgb(50, 49, 47);
+}
+.nav a:hover{
+    background-color: #f7cceb;
+  color: black;
+  border-radius: 20px;
+}
+.title{
+    text-align: center;
+}
+.title h3{
+    font-size: xx-large;
+    color: rgb(6, 6, 6) ;
+    font-weight: 5000px;
+}
+.title p{
+    font-size: xx-large;
+}
+.sale img{
+    border-radius: 100px;
+    width: 150px;
+    /* position: absolute; */
+    margin: 0 600px;
+}
+
+
+
+/* box2 */
+.box2{
+     padding-left: 100px;  
+    border: #f1c9ba;
+
+
+}
+.box2 h3{
+    
+    font-size: xx-large;
+   
+
+}
+.box3 h3{
+    font-size: xx-large;
+    text-align: center;
+
+}
+.upbox1{
+    display: flex;
+}
+.upbox1 img{
+    width: 350px;
+    height: 370px;
+    text-align: center;
+}
+.dressb1{
+   text-align: center;
+}
+.dressb2{
+    text-align: center;
+ }
+ .dressb3{
+    text-align: center;
+ }
+ 
+ .card2{
+     display: flex;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-right: 50px;
+    width: 350px;
+ }
+ .dress3{
+    /* padding-right: 30px; */
+}
+ /* .colorndress3 img{
+    width: 200px; 
+    height: 150px;
+ } */
+ 
+ .card3{
+    margin-right: 50px;
+     display: flex;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+     width: 350px;
+     height: auto;
+ }
+
+ .buttonall{
+    border: none;
+    width: 110px;
+    color: white;
+    background-color: rgb(158, 110, 141);
+    border-radius: 5px;
+    margin: 0px 80px;
+ }
+ .buttonall:hover{
+    background-color: #a0267b;
+    /* color: black; */
+    border-radius: 10px;
+ }
+  .card4{
+    margin-right: 50px;
+     display: flex;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+     width: 350px;
+ }
+
+
+
+ /* .box3 */
+ .box3{
+    padding-left: 100px; 
+display: flex;
+}
+
+.upbox2{
+    display: flex;
+}
+.upbox2 img{
+    width: 250px;
+}
+.dressc1{
+    /* padding-right: 30px; */
+    text-align: center;
+}
+.dressc2{
+    /* padding-right: 30px; */
+    text-align: center;
+}
+.dressc3{
+    /* padding-right: 30px; */
+    text-align: center;
+}
+
+
+.dressc1 img{
+    width: 300px;
+    height: 350px;
+}
+.dressc2 img{
+    width: 300px;
+    height: 350px;
+}
+.dressc3 img{
+    /* margin-top: -80px; */
+    width: 300px;
+    height: 350px;
+}
+
+ .cardc1{
+     display: flex;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-right: 50px;
+    width: 350px;
+ }
+
+ 
+ .cardc2{
+    margin-right: 50px;
+     display: flex;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+     width: 350px;
+ }
+ 
+
+ .cardc3{
+    margin-right: 50px;
+     display: flex;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+     width: 350px;
+ }
+
+ .shopmore{
+font-weight: 1000px;
+font-size: xx-large;
+color: rgb(251, 239, 251);
+border: plum;
+border-radius: 10px;
+margin: 10px 600px;
+background-image:linear-gradient(rgb(138, 53, 138), plum) ;
+ }
+
+ /* bottom nav */
+ .bottomnavbar{
+    display: flex;
+    background-color:rgb(221, 194, 212);;
+    color: rgb(10, 10, 10);
+    padding-left: 200px;
+    font-size: large;
+    font-weight: bolder;
+ 
+     }
+.bottomnavbar a{
+    color: rgb(30, 29, 29);
+   text-decoration-line: none;
+}
+.first{
+    padding-right: 200px;
+}
+     .third{
+        text-align: left;
+        margin: 50px 100px;
+       
+    }
+
+     .third i{
+        font-size: 40px;
+       position: -webkit-sticky;
+     padding-right: 20px; 
+     }
